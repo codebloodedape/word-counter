@@ -4,7 +4,7 @@
 
 Run command 'npm install' on the root directory
 
-#Configure
+# Configure
 
 Open config.json for changing the configuration
 
