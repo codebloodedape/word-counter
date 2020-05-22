@@ -1,4 +1,4 @@
-# word-counter
+# Word Counter
 
 This is a node.js based application to count the number of occurences on the highly occuring words in text document.
 The minimum word length, number of words and many more things can be configured. 
